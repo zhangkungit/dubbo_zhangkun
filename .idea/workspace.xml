@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0331ac3-ab8e-473b-a6b7-0582a60cfc65" name="Default" comment="add">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="d0331ac3-ab8e-473b-a6b7-0582a60cfc65" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="dubbo_zhangkun.iws" />
@@ -616,7 +615,7 @@
       <updated>1495289055449</updated>
       <workItem from="1495289062199" duration="4322000" />
       <workItem from="1495294092651" duration="202000" />
-      <workItem from="1495294836512" duration="2931000" />
+      <workItem from="1495294836512" duration="3087000" />
     </task>
     <task id="LOCAL-00001" summary="push">
       <created>1495293217276</created>
@@ -642,11 +641,17 @@
       <option name="project" value="LOCAL" />
       <updated>1495298751235</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix gitignore">
+      <created>1495299021080</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1495299021080</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7455000" />
+    <option name="totallyTimeSpent" value="7611000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -703,7 +708,8 @@
     <MESSAGE value="push" />
     <MESSAGE value=".gitignore" />
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="fix gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
