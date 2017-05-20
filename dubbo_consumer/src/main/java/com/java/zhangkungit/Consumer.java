@@ -11,7 +11,7 @@ public class Consumer {
         ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext(new String[]{"dubbo-demo-consumer.xml"});
         context.start();
 
-        // get service invocation proxy
+        //get service invocation proxy
         DemoService demoService = (DemoService) context.getBean("demoService");
         String hello = demoService.sayHello("zk consumer");
         System.out.println(hello);

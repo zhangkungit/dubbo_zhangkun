@@ -14,7 +14,7 @@
     <dubbo:registry protocol="zookeeper" address="127.0.0.1:2181"/>
 
 
-    <!-- 本地端口 -->
+    <!-- provider 监听本地端口 -->
     <dubbo:protocol name="dubbo" port="20880"/>
 
 
